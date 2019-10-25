@@ -15,6 +15,7 @@ Will a company report EPS above current Wall Street consensus?
 ## Prediction and Result
 | Ticker | Day, Date, Time:Before/After  | My call |Result              |
 |:------:|:-----------------------------:|--------:|:------------------:|
+| L      | Monday, October 28 before     | no      |  pending           |
 | INTC   | Thursday, October 24 after    | yes     | :white_check_mark: |
 | V      | Thursday, October 24 after    | yes     | :white_check_mark: |
 | AMZN   | Thursday, October 24 after    | no      | :white_check_mark: |
