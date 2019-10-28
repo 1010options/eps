@@ -15,9 +15,9 @@ Will a company report EPS above current Wall Street consensus?
 ## Prediction and Result
 | Ticker | Day, Date, Time:Before/After  | My call |Result              |
 |:------:|:-----------------------------:|--------:|:------------------:|
-| GOOGL  | Monday, October 28 after      | yes     | Pending            |
 | PFE    | Tuesday, October 29 before    | Yes     | Pending            |
 | MA     | Tuesday, October 29 before    | yes     | Pending            |
+| GOOGL  | Monday, October 28 after      | yes     | :x:                |
 | L      | Monday, October 28 before     | no      | :x:                |
 | INTC   | Thursday, October 24 after    | yes     | :white_check_mark: |
 | V      | Thursday, October 24 after    | yes     | :white_check_mark: |
