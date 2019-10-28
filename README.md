@@ -8,14 +8,17 @@ Will a company report EPS above current Wall Street consensus?
 * `My Call` - My Predection
   - `yes` - Yes, the company will report EPS above current wall street consensus
   - `No`  - No, the company will report EPS below current wall street consensus
-* `Result` - Was I right of wrong in predicting the result
+* `Result` - Was I right or wrong in predicting the result
   - :white_check_mark: - Yes, I was right
   - :x: - No, I was wrong
 
 ## Prediction and Result
 | Ticker | Day, Date, Time:Before/After  | My call |Result              |
 |:------:|:-----------------------------:|--------:|:------------------:|
-| L      | Monday, October 28 before     | no      |  pending           |
+| GOOGL  | Monday, October 28 after      | yes     | Pending            |
+| PFE    | Tuesday, October 29 before    | Yes     | Pending            |
+| MA     | Tuesday, October 29 before    | yes     | Pending            |
+| L      | Monday, October 28 before     | no      | :x:                |
 | INTC   | Thursday, October 24 after    | yes     | :white_check_mark: |
 | V      | Thursday, October 24 after    | yes     | :white_check_mark: |
 | AMZN   | Thursday, October 24 after    | no      | :white_check_mark: |
@@ -26,5 +29,5 @@ Will a company report EPS above current Wall Street consensus?
 | MSFT   | Wednesday, October 23 after   | yes     | :white_check_mark: |
 | BA     | Wednesday, October 23 before  | yes     | :x:                |
 | CAT    | Wednesday, October 23 before  | no      | :white_check_mark: |
-| SNAP   | Tuesday, October 22 after     | no      | :white_check_mark:i |
+| SNAP   | Tuesday, October 22 after     | no      | :white_check_mark: |
 
